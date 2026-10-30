@@ -65,10 +65,10 @@ View menggunakan Blade Template seperti `@extends`, `@section`, `@yield`, dan `@
 ![Halaman Beranda](screenshots/beranda.png)
 
 ### B. Halaman Daftar Buku
-![Daftar Buku](screenshots/daftar-buku.png)
+![Daftar Buku](screenshots/daftarbuku.png)
 
 ### C. Halaman Detail Buku
-![Detail Buku](screenshots/detail-buku.png)
+![Detail Buku](screenshots/detailbuku.png)
 
 ## 6. Cara Menjalankan Proyek
 1. Clone repository:
